@@ -1,3 +1,9 @@
+## Unit testing with Jest and React Testing Library
+
+[Tutorial](https://www.youtube.com/watch?v=3e1GHCA3GP0) on unit testing. Covers the basics but that's about it. A little out of date besides.
+
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
